@@ -8,13 +8,13 @@
 export const determineWinner = (playerPoints, computerPoints) => {  
     setTimeout(() => {
         if (computerPoints === playerPoints) {
-            alert('Empate. Prueba de nuevo!');
+            alert('Tie. Try again!');
         } else if (playerPoints > 21) {
-            alert('Has perdido, la computadora ha ganado');
+            alert('You lost, computer wins!');
         } else if (computerPoints > 21) {
-            alert('Has ganado, enhorabuena!!');
+            alert('You win, congratulations!!');
         } else {
-            alert('Has perdido, la computadora ha ganado');
+            alert('You lost, computer wins!');
         }
     }, 500);
 };
