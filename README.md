@@ -1,6 +1,6 @@
 # Blackjack
 
-![Captura de Pantalla 2024-02-09 a las 20 41 57](https://github.com/Daviichii89/js-vite-blackjack/assets/21307408/ad248a03-516c-4f12-9f37-c1388285bcc9)
+<img src="https://github.com/Daviichii89/js-vite-blackjack/assets/21307408/ad248a03-516c-4f12-9f37-c1388285bcc9" witdh="550" height="550" alt="Captura de Pantalla Blackjack" />
 
 A vanilla JS version of the popular game: Blackjack
 
@@ -8,7 +8,7 @@ A vanilla JS version of the popular game: Blackjack
 
 1. Clone the project.
 2. Run `npm install`.
-3. Run the devServer `npm run dev`.
+3. Run the devServer `npm dev`.
 
 ## Build
 
